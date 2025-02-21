@@ -15,3 +15,24 @@
 0.0.0.0 cutt.ly
 0.0.0.0 bl.ink
 0.0.0.0 short.io
+
+
+#everything in www.
+
+#these are link shortener that are monstly a virus
+0.0.0.0 www.bit.ly
+0.0.0.0 www.tinyurl.com
+
+0.0.0.0 www.rebrandly.com
+0.0.0.0 www.rb.gy
+
+0.0.0.0 www.u.to
+0.0.0.0 www.shorturl.at
+0.0.0.0 www.t2m-rc.fr
+0.0.0.0 www.t.ly
+0.0.0.0 www.tiny.cc
+
+#paid but i still ban them
+0.0.0.0 www.cutt.ly
+0.0.0.0 www.bl.ink
+0.0.0.0 www.short.io
