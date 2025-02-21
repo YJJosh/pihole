@@ -1,7 +1,9 @@
 #these are link shortener that are monstly a virus
 0.0.0.0 bit.ly
 0.0.0.0 tinyurl.com
+
 0.0.0.0 rebrandly.com
+0.0.0.0 rb.gy
 0.0.0.0 u.to
 0.0.0.0 shorturl.at
 0.0.0.0 t2m-rc.fr
