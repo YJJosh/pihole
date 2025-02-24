@@ -1,5 +1,5 @@
 # pihole
-just my personal adlist still working on it also names can change
+still working on it also names can change
 
 Blocking all url shortener: https://raw.githubusercontent.com/YJJosh/pihole/refs/heads/main/URL-shortener
 
